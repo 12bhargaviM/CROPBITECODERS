@@ -1,0 +1,38 @@
+{
+    "ants": {
+        "precautions": "Use borax-based baits. Keep food sealed. Seal entry points."
+    },
+    "bees": {
+        "precautions": "Contact a beekeeper for safe removal. Avoid disturbing the hive."
+    },
+    "beetle": {
+        "precautions": "Use neem oil or insecticidal soap. Remove infected plants."
+    },
+    "catterpillar": {
+        "precautions": "Handpick if possible. Use BT (Bacillus thuringiensis) spray."
+    },
+    "earthworms": {
+        "precautions": "Generally beneficial. No action needed unless overpopulation occurs."
+    },
+    "earwig": {
+        "precautions": "Use rolled newspaper traps. Reduce moisture in the area."
+    },
+    "grasshopper": {
+        "precautions": "Use floating row covers. Apply neem oil or garlic spray."
+    },
+    "moth": {
+        "precautions": "Use pheromone traps. Store food in airtight containers."
+    },
+    "slug": {
+        "precautions": "Use beer traps. Apply diatomaceous earth around plants."
+    },
+    "snail": {
+        "precautions": "Handpick in evening. Create copper tape barriers."
+    },
+    "wasp": {
+        "precautions": "Use wasp traps. Seal garbage cans. Avoid bright colors in garden."
+    },
+    "weevil": {
+        "precautions": "Freeze grains to kill eggs. Use airtight storage containers."
+    }
+}
